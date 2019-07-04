@@ -728,6 +728,7 @@
             <outline type="rss" text="Chen Hui Jing - Blog" title="Chen Hui Jing - Blog" xmlUrl="http://www.chenhuijing.com/feed.xml" htmlUrl="https://www.chenhuijing.com"/>
             <outline type="rss" text="ShimmerCat" title="ShimmerCat" xmlUrl="https://www.shimmercat.com/feed.xml" htmlUrl="https://www.shimmercat.com/"/>
             <outline type="rss" text="Broken Browser" title="Broken Browser" xmlUrl="http://www.brokenbrowser.com/feed/" htmlUrl="http://www.brokenbrowser.com"/>
+            <outline type="rss" text="Stephen Clark (sgclark.com)" title="Stephen Clark (sgclark.com)" xmlUrl="http://www.sgclark.com/feed/" htmlUrl="http://www.sgclark.com"/>
         </outline>
     </body>
 </opml>
