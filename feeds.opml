@@ -829,6 +829,7 @@
             <outline type="rss" text="ShimmerCat" title="ShimmerCat" xmlUrl="https://www.shimmercat.com/feed.xml" htmlUrl="https://www.shimmercat.com/"/>
             <outline type="rss" text="Broken Browser" title="Broken Browser" xmlUrl="http://www.brokenbrowser.com/feed/" htmlUrl="http://www.brokenbrowser.com"/>
             <outline type="rss" text="Yoav's blog thing" title="Yoav's blog thing" xmlUrl="https://blog.yoav.ws/index.xml" htmlUrl="https://blog.yoav.ws/"/>
+            <outline type="rss" text="maxbits.net Feed: Latest posts" title="maxbits.net Feed: Latest posts" xmlUrl="https://www.maxbits.net/feed/rss/webdev/" htmlUrl="https://www.maxbits.net/"/>
         </outline>
     </body>
 </opml>
