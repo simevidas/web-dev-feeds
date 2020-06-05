@@ -2,7 +2,8 @@
 
 <opml version="1.0">
     <head>
-        <title>Šime Vidas’s collection of RSS feeds for web developers</title>
+        <title>A collection of RSS feeds for web developers</title>
+        <ownerId>https://github.com/simevidas/web-dev-feeds</ownerId>
     </head>
     <body>
         <outline text="Specs" title="Specs">
