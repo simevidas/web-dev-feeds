@@ -963,6 +963,7 @@
             <outline type="rss" text="Chen Hui Jing" title="Chen Hui Jing" xmlUrl="http://www.chenhuijing.com/feed.xml" htmlUrl="https://chenhuijing.com/"/>
             <outline type="rss" text="ShimmerCat" title="ShimmerCat" xmlUrl="https://www.shimmercat.com/feed.xml" htmlUrl="https://www.shimmercat.com/"/>
             <outline type="rss" text="Yoav's blog thing" title="Yoav's blog thing" xmlUrl="https://blog.yoav.ws/index.xml" htmlUrl="https://blog.yoav.ws/"/>
+            <outline type="rss" text="Tim Daubenschütz's Blog" title="Tim Daubenschütz's Blog" xmlUrl="https://timdaub.github.io/atom.xml" htmlUrl="https://timdaub.github.io/"/>
         </outline>
     </body>
 </opml>
