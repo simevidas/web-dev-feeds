@@ -734,7 +734,7 @@
             <outline type="rss" text="Marcos Leben Blog" title="Marcos Leben Blog" xmlUrl="http://www.marcozehe.de/feed/" htmlUrl="https://www.marcozehe.de/"/>
             <outline type="rss" text="daniel.haxx.se" title="daniel.haxx.se" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog"/>
             <outline type="rss" text="Iain Bean" title="Iain Bean" xmlUrl="https://iainbean.com/feed.xml" htmlUrl="https://iainbean.com/"/>
-            <outline type="rss" text="Blog (Web Development, Mostly) · Jens Oliver Meiert" title="Blog (Web Development, Mostly) · Jens Oliver Meiert" xmlUrl="http://meiert.com/en/feed/" htmlUrl="https://meiert.com/en/"/>
+            <outline type="rss" text="Blog (Web Development, Mostly) · Jens Oliver Meiert" title="Blog (Web Development, Mostly) · Jens Oliver Meiert" xmlUrl="https://meiert.com/en/feed/" htmlUrl="https://meiert.com/en/"/>
             <outline type="rss" text="Tim's website" title="Tim's website" xmlUrl="https://timdaub.github.io/atom.xml" htmlUrl="https://timdaub.github.io/"/>
             <outline type="rss" text="Almost Profound: The Audio Blog of Una Kravets" title="Almost Profound: The Audio Blog of Una Kravets" xmlUrl="https://una.im/feed.xml" htmlUrl="http://una.github.io"/>
             <outline type="rss" text="Jhey Tompkins Posts" title="Jhey Tompkins Posts" xmlUrl="https://jhey.dev/posts.xml" htmlUrl="https://jhey.dev/"/>
