@@ -1,7 +1,3 @@
-## Your participation is welcome
+## 1000 feeds for web developers
 
-You can open an issue
-
-- to propose a feed to be added to the list
-- to propose a feed to be removed from the list
-- to report a relevant blog that does not have a feed
+Download feeds.opml and import it into your feed reader. I update this file once per month. Watch this repo to get notified.
