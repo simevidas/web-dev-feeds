@@ -1014,6 +1014,7 @@
             <outline type="rss" text="Chen Hui Jing" title="Chen Hui Jing" xmlUrl="http://www.chenhuijing.com/feed.xml" htmlUrl="https://chenhuijing.com/"/>
             <outline type="rss" text="ShimmerCat" title="ShimmerCat" xmlUrl="https://www.shimmercat.com/feed.xml" htmlUrl="https://www.shimmercat.com/"/>
             <outline type="rss" text="Yoav's blog thing" title="Yoav's blog thing" xmlUrl="https://blog.yoav.ws/index.xml" htmlUrl="https://blog.yoav.ws/"/>
+            <outline type="rss" text="Frontend Dogma (News and Views in Frontend Development)" title="Frontend Dogma (News and Views in Frontend Development)" xmlUrl="https://frontenddogma.com/feed/" htmlUrl="https://frontenddogma.com/"/>
         </outline>
         <outline text="Governments" title="Governments">
             <outline type="rss" text="Technology in government" title="Technology in government" xmlUrl="https://gdstechnology.blog.gov.uk/feed/" htmlUrl="https://technology.blog.gov.uk"/>
