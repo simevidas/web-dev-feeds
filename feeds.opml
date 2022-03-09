@@ -505,7 +505,7 @@
             <outline type="rss" text="That Emil - Blog" title="That Emil - Blog" xmlUrl="http://feeds.feedburner.com/thatemil-blog" htmlUrl="https://thatemil.com/blog/"/>
             <outline type="rss" text="Appcanary" title="Appcanary" xmlUrl="http://blog.appcanary.com/feed.xml" htmlUrl="https://blog.appcanary.com"/>
             <outline type="rss" text="Sarbbottam’s weblog" title="Sarbbottam’s weblog" xmlUrl="https://sarbbottam.github.io/feed.xml" htmlUrl="https://sarbbottam.github.io/"/>
-            <outline type="rss" text="Max Kohler" title="Max Kohler" xmlUrl="https://maxkoehler.com/feed.xml" htmlUrl="https://maxkoehler.com/"/>
+            <outline type="rss" text="Max Kohler" title="Max Kohler" xmlUrl="https://maxkohler.com/feed.xml" htmlUrl="https://maxkohler.com/"/>
             <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="http://feeds.feedburner.com/KrebsOnSecurity" htmlUrl="https://krebsonsecurity.com"/>
             <outline type="rss" text="meetguns.com/blog - RSS Feed" title="meetguns.com/blog - RSS Feed" xmlUrl="https://meetguns.com/rss.xml" htmlUrl="http://github.com/dylang/node-rss"/>
             <outline type="rss" text="Pedro Duarte" title="Pedro Duarte" xmlUrl="https://ped.ro/feed.xml" htmlUrl="https://ped.ro"/>
