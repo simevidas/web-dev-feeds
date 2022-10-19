@@ -434,6 +434,8 @@
             <outline type="rss" text="Felix Gerschau" title="Felix Gerschau" xmlUrl="https://felixgerschau.com/rss.xml" htmlUrl="https://felixgerschau.com"/>
             <outline type="rss" text="The Internet Marketing Driver" title="The Internet Marketing Driver" xmlUrl="https://www.gsqi.com/marketing-blog/feed/" htmlUrl="https://www.gsqi.com/marketing-blog"/>
             <outline type="rss" text="Blog of fearless web developer Silvestar Bistrović" title="Blog of fearless web developer Silvestar Bistrović" xmlUrl="https://www.silvestar.codes/rss.xml" htmlUrl="https://www.silvestar.codes"/>
+            <outline type="rss" text="UI Dev Newsletter" title="UI Dev Newsletter" xmlUrl="https://www.silvestar.codes/rss2.xml" htmlUrl="https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/"/>
+            <outline type="rss" text="Invalid CSS" title="Invalid CSS" xmlUrl="https://www.silvestar.codes/rss3.xml" htmlUrl="https://www.silvestar.codes/side-projects/invalid-css/"/>
             <outline type="rss" text="Educated Guesswork" title="Educated Guesswork" xmlUrl="https://educatedguesswork.org/feed/feed.xml" htmlUrl="https://educatedguesswork.org"/>
             <outline type="rss" text="Paul Kinchla" title="Paul Kinchla" xmlUrl="https://paulkinchla.com/feed/" htmlUrl="https://paulkinchla.com/"/>
             <outline type="rss" text="Chip Cullen | Front End Developer" title="Chip Cullen | Front End Developer" xmlUrl="https://chipcullen.com/index.xml" htmlUrl="https://chipcullen.com/"/>
