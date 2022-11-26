@@ -7,6 +7,10 @@
 
 * [fvsch.com](https://fvsch.com/) — [💬 25.11.2022](https://twitter.com/simevidas/status/1595976232226770944)
 
+### Website is down
+
+* [www.tomanthony.co.uk](https://www.tomanthony.co.uk/) — [💬 8.10.2022](https://twitter.com/simevidas/status/1578746145870077953)
+
 ### Feed requested
 
 * [fershad.com/writing/](https://fershad.com/writing/) — [💬 25.11.2022](https://twitter.com/simevidas/status/1596190828317507584)
