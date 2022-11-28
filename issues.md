@@ -9,7 +9,7 @@
 
 ### Website is down
 
-* [www.tomanthony.co.uk](https://www.tomanthony.co.uk/) — [💬 8.10.2022](https://twitter.com/simevidas/status/1578746145870077953)
+* [tomanthony.co.uk](https://www.tomanthony.co.uk/) — [💬 8.10.2022](https://twitter.com/simevidas/status/1578746145870077953)
 
 ### Feed requested
 
