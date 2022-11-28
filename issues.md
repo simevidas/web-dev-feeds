@@ -14,3 +14,7 @@
 ### Feed requested
 
 (empty)
+
+---
+
+TODO: Import everything from https://github.com/simevidas/web-dev-feeds/wiki/Blogs-without-feeds
