@@ -1,7 +1,7 @@
 ### Feed error
 
 * [addons.mozilla.org/blog/](https://addons.mozilla.org/blog/) — [💬 26.11.2022](https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/) (CORS error)
-* [robdodson.me](https://robdodson.me/) — [💬 25.11.2022]([https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/](https://pinafore.social/statuses/109402350486107411)) (invalid XML)
+* [robdodson.me](https://robdodson.me/) — [💬 25.11.2022](https://pinafore.social/statuses/109402350486107411) (invalid XML)
 
 ### Feed disappeared
 
