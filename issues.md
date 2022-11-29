@@ -15,6 +15,7 @@
 ### Feed requested
 
 * [themosaad.com/blog](https://www.themosaad.com/blog) — [💬 29.11.2022](https://news.ycombinator.com/item?id=33789426)
+* [svgees.us/blog/](https://svgees.us/blog/) — [💬 29.6.2022](https://github.com/svgeesus/svgeesus.github.io/issues/12)
 
 ---
 
