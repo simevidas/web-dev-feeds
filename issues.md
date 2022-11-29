@@ -13,7 +13,7 @@
 
 ### Feed requested
 
-(empty)
+* [themosaad.com/blog](https://www.themosaad.com/blog) — [💬 29.11.2022](https://news.ycombinator.com/item?id=33789426)
 
 ---
 
