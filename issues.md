@@ -7,6 +7,7 @@
 
 * [pcwalton.github.io](https://pcwalton.github.io/) — [💬 29.11.2022](https://github.com/pcwalton/pcwalton.github.com/issues/6)
 * [fvsch.com](https://fvsch.com/) — [💬 25.11.2022](https://twitter.com/simevidas/status/1595976232226770944)
+* [giovannibenussi.com](https://www.giovannibenussi.com/) — [💬 29.10.2022](https://twitter.com/simevidas/status/1454144581684039689)
 
 ### Website is down
 
