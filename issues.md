@@ -9,6 +9,12 @@
 * [fvsch.com](https://fvsch.com/) — [💬 25.11.2022](https://twitter.com/simevidas/status/1595976232226770944)
 * [giovannibenussi.com](https://www.giovannibenussi.com/) — [💬 29.10.2021](https://twitter.com/simevidas/status/1454144581684039689)
 
+### Website is not HTTPS
+
+Blog URL | Feed URL | Discussion
+-|-|-
+[pixelscommander.com](http://pixelscommander.com/) | [/feed/atom/](http://pixelscommander.com/feed/atom/) | [3.12.2022](https://twitter.com/simevidas/status/1598814843754057728)
+
 ### Website is down
 
 (empty)
