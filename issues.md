@@ -1,7 +1,9 @@
 ### Feed error
 
-* [addons.mozilla.org/blog/](https://addons.mozilla.org/blog/) — [💬 26.11.2022](https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/) (CORS error)
-* [robdodson.me](https://robdodson.me/) — [💬 25.11.2022](https://pinafore.social/statuses/109402350486107411) (invalid XML)
+&nbsp; | 📥 | 💬 | ❓
+-|-|-|-
+[addons.mozilla.org/blog/](https://addons.mozilla.org/blog/) | [/blog/feed.xml](https://addons.mozilla.org/blog/feed.xml) | [26.11.2022](https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/) | CORS error
+[robdodson.me](https://robdodson.me/) | [/feed.xml](https://robdodson.me/feed.xml) | [25.11.2022](https://pinafore.social/statuses/109402350486107411) | invalid XML
 
 ### Feed disappeared
 
@@ -18,8 +20,8 @@
 
 ### Website is down
 
-&nbsp; | 📥 | 💬 | ℹ️
--|-|-
+&nbsp; | 📥 | 💬 | ❓
+-|-|-|-
 [petergasston.co.uk](https://petergasston.co.uk/) | [/feed/](https://petergasston.co.uk/feed/) | [4.12.2022](https://twitter.com/simevidas/status/1599196647589675008) | invalid certificate
 
 ### Feed requested
