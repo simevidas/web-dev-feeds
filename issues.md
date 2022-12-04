@@ -5,8 +5,8 @@ Feed error | 📥 | 💬 | ❓
 
 Feed disappeared | 📥 | 💬
 -|-|-
-[pcwalton.github.io](https://pcwalton.github.io/) | | [29.11.2022](https://github.com/pcwalton/pcwalton.github.com/issues/6)
-[giovannibenussi.com](https://www.giovannibenussi.com/) | | [29.10.2021](https://twitter.com/simevidas/status/1454144581684039689)
+[pcwalton.github.io](https://pcwalton.github.io/) | [/feed.xml](https://pcwalton.github.io/feed.xml) | [29.11.2022](https://github.com/pcwalton/pcwalton.github.com/issues/6)
+[giovannibenussi.com](https://www.giovannibenussi.com/) | [/rss.xml](https://www.giovannibenussi.com/rss.xml) | [29.10.2021](https://twitter.com/simevidas/status/1454144581684039689)
 
 Website is not HTTPS | 📥 | 💬
 -|-|-
