@@ -13,7 +13,6 @@ Website is not HTTPS | 📥 | 💬
 
 Website is down | 📥 | 💬 | ❓
 -|-|-|-
-[tomanthony.co.uk](https://www.tomanthony.co.uk/) | [/feed/](http://www.tomanthony.co.uk/feed/) | [4.12.2022](https://twitter.com/simevidas/status/1599477090591481856) | connection timeout
 [annevankesteren.nl](http://annevankesteren.nl/) | [/feeds/weblog](http://annevankesteren.nl/feeds/weblog) | [4.12.2022](https://twitter.com/simevidas/status/1599204653165445122) | connection timeout
 
 ---
