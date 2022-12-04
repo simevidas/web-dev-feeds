@@ -3,11 +3,10 @@ Feed error | 📥 | 💬 | ❓
 [addons.mozilla.org/blog/](https://addons.mozilla.org/blog/) | [/blog/feed.xml](https://addons.mozilla.org/blog/feed.xml) | [26.11.2022](https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/) | CORS error
 [robdodson.me](https://robdodson.me/) | [/feed.xml](https://robdodson.me/feed.xml) | [25.11.2022](https://pinafore.social/statuses/109402350486107411) | invalid XML
 
-### Feed disappeared
-
-* [pcwalton.github.io](https://pcwalton.github.io/) — [💬 29.11.2022](https://github.com/pcwalton/pcwalton.github.com/issues/6)
-* [fvsch.com](https://fvsch.com/) — [💬 25.11.2022](https://twitter.com/simevidas/status/1595976232226770944)
-* [giovannibenussi.com](https://www.giovannibenussi.com/) — [💬 29.10.2021](https://twitter.com/simevidas/status/1454144581684039689)
+Feed disappeared | 📥 | 💬
+-|-|-
+[pcwalton.github.io](https://pcwalton.github.io/) | | [29.11.2022](https://github.com/pcwalton/pcwalton.github.com/issues/6)
+[giovannibenussi.com](https://www.giovannibenussi.com/) | | [29.10.2021](https://twitter.com/simevidas/status/1454144581684039689)
 
 Website is not HTTPS | 📥 | 💬
 -|-|-
