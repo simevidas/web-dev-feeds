@@ -1,5 +1,6 @@
-Feed error | 📥 | 💬 | ❓
+Problem with feed | 📥 | 💬 | ❓
 -|-|-|-
+[aetherpoint.com/writing/](https://www.aetherpoint.com/writing/) | [/feed.xml](https://www.aetherpoint.com/feed.xml) | [4.12.2022](https://mastodon.social/@simevidas/109457465962904832) | feed is empty
 [addons.mozilla.org/blog/](https://addons.mozilla.org/blog/) | [/blog/feed.xml](https://addons.mozilla.org/blog/feed.xml) | [26.11.2022](https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/) | CORS error
 [robdodson.me](https://robdodson.me/) | [/feed.xml](https://robdodson.me/feed.xml) | [25.11.2022](https://pinafore.social/statuses/109402350486107411) | invalid XML
 
@@ -24,8 +25,21 @@ Feed disappeared | 📥 | 💬
 
 Feed requested | 💬
 -|-
+[adamlynch.com](https://adamlynch.com/) | [4.12.2022](https://twitter.com/simevidas/status/1599515309085691904)
 [themosaad.com/blog](https://www.themosaad.com/blog) | [29.11.2022](https://news.ycombinator.com/item?id=33789426)
 [svgees.us/blog/](https://svgees.us/blog/) | [29.6.2022](https://github.com/svgeesus/svgeesus.github.io/issues/12)
+
+| No feed |
+|-|
+[jgw96.github.io/blog/](https://jgw96.github.io/blog/)
+[accessuse.eu/en/blog-en.html](https://accessuse.eu/en/blog-en.html)
+[team-usability.de/en/Blog.html](https://team-usability.de/en/Blog.html)
+[aibolik.github.io/](https://aibolik.github.io/)
+[polymer-project.org/blog/](https://www.polymer-project.org/blog/)
+[moiety.me/thinks/](https://moiety.me/thinks/)
+[nicolaschevobbe.com](https://nicolaschevobbe.com/)
+[simonsmith.io](https://simonsmith.io/)
+[daliborgogic.com](https://daliborgogic.com/)
 
 ---
 
