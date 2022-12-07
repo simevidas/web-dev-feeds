@@ -19,6 +19,7 @@ Website is down | 📥 | 💬 | ❓
 
 Feed disappeared | 📥 | 💬
 -|-|-
+[ben.robertson.is/writing/](https://ben.robertson.is/writing/) | [/feed.xml](https://ben.robertson.is/feed.xml) | [7.12.2022](https://github.com/benrobertsonio/benrobertson.io/issues/65)
 [pcwalton.github.io](https://pcwalton.github.io/) | [/feed.xml](https://pcwalton.github.io/feed.xml) | [29.11.2022](https://github.com/pcwalton/pcwalton.github.com/issues/6)
 [giovannibenussi.com](https://www.giovannibenussi.com/) | [/rss.xml](https://www.giovannibenussi.com/rss.xml) | [29.10.2021](https://twitter.com/simevidas/status/1454144581684039689)
 
