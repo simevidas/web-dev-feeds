@@ -13,8 +13,7 @@ Website is not HTTPS | 📥 | 💬
 
 Website is down | 📥 | 💬 | ❓
 -|-|-|-
-[annevankesteren.nl](http://annevankesteren.nl/) | [/feeds/weblog](http://annevankesteren.nl/feeds/weblog) | [4.12.2022](https://twitter.com/simevidas/status/1599204653165445122) | connection timeout
-
+(empty)
 ---
 
 Feed disappeared | 📥 | 💬
