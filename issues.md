@@ -1,6 +1,5 @@
 Problem with feed | 📥 | 💬 | ❓
 -|-|-|-
-[nickolinger.com/blog/](https://nickolinger.com/blog/) | [/rss.xml](https://nickolinger.com/rss.xml) | [8.12.2022](https://twitter.com/simevidas/status/1600968759677972480) | feed items have incorrect URLs
 [aetherpoint.com/writing/](https://www.aetherpoint.com/writing/) | [/feed.xml](https://www.aetherpoint.com/feed.xml) | [4.12.2022](https://mastodon.social/@simevidas/109457465962904832) | feed is empty
 [addons.mozilla.org/blog/](https://addons.mozilla.org/blog/) | [/blog/feed.xml](https://addons.mozilla.org/blog/feed.xml) | [26.11.2022](https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/) | CORS error
 [robdodson.me](https://robdodson.me/) | [/feed.xml](https://robdodson.me/feed.xml) | [25.11.2022](https://pinafore.social/statuses/109402350486107411) | invalid XML
