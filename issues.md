@@ -27,6 +27,7 @@ Feed disappeared | 📥 | 💬
 
 Feed requested | 💬
 -|-
+[davidmacd.com/blog/?C=M;O=D](https://www.davidmacd.com/blog/?C=M;O=D) | [8.12.2022](https://twitter.com/simevidas/status/1600697135367786497)
 [adamlynch.com](https://adamlynch.com/) | [4.12.2022](https://twitter.com/simevidas/status/1599515309085691904)
 [themosaad.com/blog](https://www.themosaad.com/blog) | [29.11.2022](https://news.ycombinator.com/item?id=33789426)
 [svgees.us/blog/](https://svgees.us/blog/) | [29.6.2022](https://github.com/svgeesus/svgeesus.github.io/issues/12)
