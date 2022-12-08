@@ -51,6 +51,7 @@ Feed requested | 💬
 [hjorthhansen.dev](https://www.hjorthhansen.dev/)
 [leucosite.com](https://leucosite.com/)
 [webcloud.se](https://webcloud.se/)
+[ninjarockstar.dev](https://ninjarockstar.dev/)
 
 ---
 
