@@ -13,7 +13,7 @@ Website is not HTTPS | 📥 | 💬
 
 Website is down | 📥 | 💬 | ❓
 -|-|-|-
-[brucelawson.co.uk](https://www.brucelawson.co.uk) | [/feed/](https://www.brucelawson.co.uk/feed/) | [8.12.2022](https://twitter.com/simevidas/status/1600902948367630337)
+[brucelawson.co.uk](https://www.brucelawson.co.uk) | [/feed/](https://www.brucelawson.co.uk/feed/) | [8.12.2022](https://twitter.com/simevidas/status/1600902948367630337) | error establishing database connection
 
 ---
 
