@@ -19,6 +19,7 @@ Website is down | 📥 | 💬 | ❓
 
 Feed disappeared | 📥 | 💬
 -|-|-
+[samuelkraft.com/blog](https://samuelkraft.com/blog) | [/feed.xml](https://samuelkraft.com/feed.xml) | [8.12.2022](https://github.com/samuelkraft/samuelkraft-next/issues/76)
 [wesbos.com/blog/](https://wesbos.com/blog/) | [/feed/](http://wesbos.com/feed/) | [7.12.2022](https://github.com/wesbos/wesbos/issues/70#issuecomment-1341369901)
 [ben.robertson.is/writing/](https://ben.robertson.is/writing/) | [/feed.xml](https://ben.robertson.is/feed.xml) | [7.12.2022](https://github.com/benrobertsonio/benrobertson.io/issues/65)
 [pcwalton.github.io](https://pcwalton.github.io/) | [/feed.xml](https://pcwalton.github.io/feed.xml) | [29.11.2022](https://github.com/pcwalton/pcwalton.github.com/issues/6)
