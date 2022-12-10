@@ -33,6 +33,7 @@ Feed requested | 💬
 [themosaad.com/blog](https://www.themosaad.com/blog) | [29.11.2022](https://news.ycombinator.com/item?id=33789426)
 [svgees.us/blog/](https://svgees.us/blog/) | [29.6.2022](https://github.com/svgeesus/svgeesus.github.io/issues/12)
 [gregives.co.uk/blog/](https://gregives.co.uk/blog/) | [4.5.2022](https://gregives.co.uk/guestbook/)
+[tobireif.com/posts/](https://tobireif.com/posts/) | [7.2.2021](https://twitter.com/simevidas/status/1358289331291643908)
 
 | No feed |
 |-|
@@ -52,6 +53,7 @@ Feed requested | 💬
 [leucosite.com](https://leucosite.com/)
 [webcloud.se](https://webcloud.se/)
 [ninjarockstar.dev](https://ninjarockstar.dev/)
+[sarahchima.com/blog/](https://sarahchima.com/blog/)
 
 ---
 
