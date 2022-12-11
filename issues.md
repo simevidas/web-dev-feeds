@@ -28,7 +28,6 @@ Feed requested | 💬
 -|-
 [leininger.tech/words/](https://leininger.tech/words/) | [11.12.2022](https://twitter.com/simevidas/status/1601747628165042176)
 [tomvanantwerp.com/writing/#technical-writing](https://tomvanantwerp.com/writing/#technical-writing) | [11.12.2022](https://github.com/tvanantwerp/tomvanantwerp.com/issues/88)
-[lamplightdev.com/blog/](https://lamplightdev.com/blog/) | [11.12.2022](https://mastodon.social/@simevidas/109492367182974288)
 [strictmode.io](https://www.strictmode.io/) | [11.12.2022](https://twitter.com/simevidas/status/1601745034164174848)
 [tpiros.dev/blog/](https://tpiros.dev/blog/) | [11.12.2022](https://twitter.com/simevidas/status/1601740434858213376)
 [trost.codes/posts/](https://trost.codes/posts/) | [8.12.2022](https://twitter.com/simevidas/status/1600981003388219392)
