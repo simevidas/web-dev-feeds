@@ -2,7 +2,7 @@ Problem with feed | 📥 | 💬 | ❓
 -|-|-|-
 [aetherpoint.com/writing/](https://www.aetherpoint.com/writing/) | [/feed.xml](https://www.aetherpoint.com/feed.xml) | [4.12.2022](https://mastodon.social/@simevidas/109457465962904832) | feed is empty
 [addons.mozilla.org/blog/](https://addons.mozilla.org/blog/) | [/blog/feed.xml](https://addons.mozilla.org/blog/feed.xml) | [26.11.2022](https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/) | CORS error
-[robdodson.me](https://robdodson.me/) | [/feed.xml](https://robdodson.me/feed.xml) | [25.11.2022](https://pinafore.social/statuses/109402350486107411) | invalid XML
+[robdodson.me](https://robdodson.me/) | [/feed.xml](https://robdodson.me/feed.xml) | [25.11.2022](https://mastodon.social/@simevidas/109402350486107411) | invalid XML
 
 Website is not HTTPS | 📥 | 💬
 -|-|-
@@ -26,6 +26,7 @@ Feed disappeared | 📥 | 💬
 
 Feed requested | 💬
 -|-
+[lamplightdev.com/blog/](https://lamplightdev.com/blog/) | [11.12.2022](https://mastodon.social/@simevidas/109492367182974288)
 [strictmode.io](https://www.strictmode.io/) | [11.12.2022](https://twitter.com/simevidas/status/1601745034164174848)
 [tpiros.dev/blog/](https://tpiros.dev/blog/) | [11.12.2022](https://twitter.com/simevidas/status/1601740434858213376)
 [trost.codes/posts/](https://trost.codes/posts/) | [8.12.2022](https://twitter.com/simevidas/status/1600981003388219392)
