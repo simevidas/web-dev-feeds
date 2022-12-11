@@ -26,6 +26,8 @@ Feed disappeared | 📥 | 💬
 
 Feed requested | 💬
 -|-
+[strictmode.io](https://www.strictmode.io/) | [11.12.2022](https://twitter.com/simevidas/status/1601745034164174848)
+[tpiros.dev/blog/](https://tpiros.dev/blog/) | [11.12.2022](https://twitter.com/simevidas/status/1601740434858213376)
 [trost.codes/posts/](https://trost.codes/posts/) | [8.12.2022](https://twitter.com/simevidas/status/1600981003388219392)
 [leerob.io/blog](https://leerob.io/blog) | [8.12.2022](https://twitter.com/simevidas/status/1600700426420391937)
 [davidmacd.com/blog/?C=M;O=D](https://www.davidmacd.com/blog/?C=M;O=D) | [8.12.2022](https://twitter.com/simevidas/status/1600697135367786497)
@@ -37,10 +39,10 @@ Feed requested | 💬
 
 | No feed |
 |-|
-[jgw96.github.io/blog/](https://jgw96.github.io/blog/)
+[jgw96.github.io/blog](https://jgw96.github.io/blog/)
 [accessuse.eu/en/blog-en.html](https://accessuse.eu/en/blog-en.html)
 [team-usability.de/en/Blog.html](https://team-usability.de/en/Blog.html)
-[aibolik.github.io/](https://aibolik.github.io/)
+[aibolik.github.io](https://aibolik.github.io/)
 [polymer-project.org/blog/](https://www.polymer-project.org/blog/)
 [moiety.me/thinks/](https://moiety.me/thinks/)
 [nicolaschevobbe.com](https://nicolaschevobbe.com/)
@@ -55,6 +57,9 @@ Feed requested | 💬
 [ninjarockstar.dev](https://ninjarockstar.dev/)
 [sarahchima.com/blog/](https://sarahchima.com/blog/)
 [gwhitworth.com/posts/](https://www.gwhitworth.com/posts/)
+[/marektoth.com/blog/](https://marektoth.com/blog/)
+[uselessdivs.com/blog/](https://uselessdivs.com/blog/)
+[nemzes.net/posts/](https://nemzes.net/posts/)
 
 ---
 
