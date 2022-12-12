@@ -71,7 +71,3 @@ Feed requested | 💬
 [/marektoth.com/blog/](https://marektoth.com/blog/)
 [uselessdivs.com/blog/](https://uselessdivs.com/blog/)
 [nemzes.net/posts/](https://nemzes.net/posts/)
-
----
-
-TODO: Import everything from https://github.com/simevidas/web-dev-feeds/wiki/Blogs-without-feeds
