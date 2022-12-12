@@ -27,6 +27,7 @@ Feed disappeared | 📥 | 💬
 
 Feed requested | 💬
 -|-
+[frontend.horse/articles/](https://frontend.horse/articles/) | [12.12.2022](https://twitter.com/simevidas/status/1602156649938124800)
 [react-spectrum.adobe.com/blog/](https://react-spectrum.adobe.com/blog/) | [12.12.2022](https://twitter.com/simevidas/status/1602155142643695618)
 [bholmes.dev/blog/](https://bholmes.dev/blog/) | [12.12.2022](https://twitter.com/simevidas/status/1602149251575947265)
 [leininger.tech/words/](https://leininger.tech/words/) | [11.12.2022](https://twitter.com/simevidas/status/1601747628165042176)
