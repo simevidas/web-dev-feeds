@@ -26,6 +26,7 @@ Feed disappeared | 📥 | 💬
 
 Feed requested | 💬
 -|-
+[bholmes.dev/blog/](https://bholmes.dev/blog/) | [12.12.2022](https://twitter.com/simevidas/status/1602149251575947265)
 [leininger.tech/words/](https://leininger.tech/words/) | [11.12.2022](https://twitter.com/simevidas/status/1601747628165042176)
 [tomvanantwerp.com/writing/#technical-writing](https://tomvanantwerp.com/writing/#technical-writing) | [11.12.2022](https://github.com/tvanantwerp/tomvanantwerp.com/issues/88)
 [strictmode.io](https://www.strictmode.io/) | [11.12.2022](https://twitter.com/simevidas/status/1601745034164174848)
