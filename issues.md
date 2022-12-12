@@ -1,3 +1,7 @@
+TODO: Move this content to README. Then, add instructions for importing OPML to Feedbro and bump version to 2.0.
+
+---
+
 Problem with feed | 📥 | 💬 | ❓
 -|-|-|-
 [alistapart.com](https://alistapart.com/) | [/main/feed/](http://alistapart.com/main/feed/) | 12.12.2022 | issue with Feedbro <details>Feedbro keeps incorrectly marking the same old RSS items as new and unread. This happens only for this RSS feed. I have removed this feed from the collection because I got tired of marking the same feeds as read over and over again. I haven’t diagnosed the issue.</details>
