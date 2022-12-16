@@ -18,7 +18,7 @@ Website is not HTTPS | 📥 | 💬
 
 Website is down | 💬 | ❓
 -|-|-
-[creativejuiz.fr/blog/en/](https://www.creativejuiz.fr/blog/en/) | [creativejuiz.fr/blog/en/feed](https://www.creativejuiz.fr/blog/en/feed) | [16.12.2022](https://mastodon.social/@simevidas/109521610581167292) | website down
+[creativejuiz.fr/blog/en/](https://www.creativejuiz.fr/blog/en/) | [16.12.2022](https://mastodon.social/@simevidas/109521610581167292) | website down
 [last-child.com](https://www.last-child.com/) | Ted Drake? | access denied
 
 ---
