@@ -17,7 +17,7 @@ Website is not HTTPS | 📥 | 💬
 
 Website is down | 💬 | ❓
 -|-|-
-[last-child.com](https://www.last-child.com/) | Ted Drake? | access denied
+(empty)
 
 ---
 
