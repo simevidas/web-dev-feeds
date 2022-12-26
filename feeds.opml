@@ -238,6 +238,7 @@
             <outline type="rss" text="Electron Blog" title="Electron Blog" xmlUrl="https://www.electronjs.org/blog/rss.xml" htmlUrl="https://electronjs.org/blog"/>
             <outline type="rss" text="ESLint Blog" title="ESLint Blog" xmlUrl="http://eslint.org/feed.xml" htmlUrl="https://eslint.org/"/>
             <outline type="rss" text="Deno" title="Deno" xmlUrl="https://deno.com/feed" htmlUrl="https://deno.com/blog"/>
+            <outline type="rss" text="Localizely" title="Localizely Blog" xmlUrl="https://localizely.com/feed.xml" htmlUrl="https://localizely.com/blog/"/>
         </outline>
         <outline text="Magazines" title="Magazines">
             <outline type="rss" text="A List Apart" title="A List Apart" xmlUrl="http://alistapart.com/main/feed" htmlUrl="https://alistapart.com"/>
