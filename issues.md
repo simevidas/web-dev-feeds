@@ -17,7 +17,6 @@ Website is not HTTPS | 📥 | 💬
 
 Website is down | 💬 | ❓
 -|-|-
-[snook.ca](https://snook.ca) | [26.12.2022](https://twitter.com/simevidas/status/1607220227384778752) | web server isn’t responding
 [last-child.com](https://www.last-child.com/) | Ted Drake? | access denied
 
 ---
