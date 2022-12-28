@@ -23,6 +23,7 @@ Website is down | 💬 | ❓
 
 Feed disappeared | 📥 | 💬
 -|-|-
+[mrd0x.com](https://mrd0x.com/) | [/rss.xml](https://mrd0x.com/rss.xml) | [28.12.2022](https://twitter.com/simevidas/status/1608228297221046272)
 [filamentgroup.com/lab/](https://www.filamentgroup.com/lab/) | [/lab/atom.xml](https://www.filamentgroup.com/lab/atom.xml) | [28.12.2022](https://twitter.com/simevidas/status/1607876034216579073)
 [wesbos.com/blog/](https://wesbos.com/blog/) | [/feed/](http://wesbos.com/feed/) | [7.12.2022](https://github.com/wesbos/wesbos/issues/70#issuecomment-1341369901)
 [ben.robertson.is/writing/](https://ben.robertson.is/writing/) | [/feed.xml](https://ben.robertson.is/feed.xml) | [7.12.2022](https://github.com/benrobertsonio/benrobertson.io/issues/65)
