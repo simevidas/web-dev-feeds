@@ -4,7 +4,6 @@ TODO: Move this content to README. Then, add instructions for importing OPML to 
 
 Problem with feed | 📥 | 💬 | ❓
 -|-|-|-
-[leonardofaria.net](https://leonardofaria.net/) | [feeds.feedburner.com/leonardofaria](https://feeds.feedburner.com/leonardofaria) | [30.12.2022](https://github.com/leonardofaria/leonardofaria.net/issues/133) | invalid XML
 [alistapart.com](https://alistapart.com/) | [/main/feed/](http://alistapart.com/main/feed/) | 12.12.2022 | issue with Feedbro <details>Feedbro keeps incorrectly marking the same old RSS items as new and unread. This happens only for this RSS feed. I have removed this feed from the collection because I got tired of marking the same feeds as read over and over again. I haven’t diagnosed the issue.</details>
 [aetherpoint.com/writing/](https://www.aetherpoint.com/writing/) | [/feed.xml](https://www.aetherpoint.com/feed.xml) | [4.12.2022](https://mastodon.social/@simevidas/109457465962904832) | feed is empty
 [addons.mozilla.org/blog/](https://addons.mozilla.org/blog/) | [/blog/feed.xml](https://addons.mozilla.org/blog/feed.xml) | [26.11.2022](https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/) | CORS error
