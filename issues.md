@@ -16,6 +16,7 @@ Website is not HTTPS | 📥 | 💬
 
 Website is down | 💬 | ❓
 -|-|-
+[tbranyen.com](http://www.tbranyen.com/) | n/a | unsable to connect
 [justinfagnani.com](https://justinfagnani.com/) | [1.1.2023](https://mastodon.social/@simevidas/109616402396112644) | certificate expired
 
 ---
