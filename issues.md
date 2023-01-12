@@ -1,4 +1,4 @@
-TODO: Move this content to README. Then, add instructions for importing OPML to Feedbro and bump version to 2.0. (But warn people that Feedbro doesn’t have great security [source](https://infosec.exchange/@WPalant/109581635136365872)).
+TODO: Move this content to README. Then, add instructions for importing OPML to Feedbro and bump version to 2.0. (But warn people that Feedbro doesn’t have great security [source](https://infosec.exchange/@WPalant/109581635136365872)). Also include [usage video](https://www.youtube.com/watch?v=7zI5Bdm4aCo).
 
 ---
 
