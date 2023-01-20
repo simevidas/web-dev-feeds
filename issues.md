@@ -33,7 +33,6 @@ Feed disappeared | 📥 | 💬
 
 Feed requested | 💬
 -|-
-[garden.bradwoods.io](https://garden.bradwoods.io/) | [10.1.2023](https://twitter.com/simevidas/status/1612645410795028481)
 [nemzes.net/posts/](https://nemzes.net/posts/) | [7.1.2023](https://mastodon.social/@simevidas/109649862770330876)
 [imkev.dev](https://imkev.dev/) | [5.1.2023](https://mastodon.social/@simevidas/109638313938258067)
 [maxiferreira.com](https://www.maxiferreira.com/) | [12.12.2022](https://twitter.com/simevidas/status/1602157245814509568)
