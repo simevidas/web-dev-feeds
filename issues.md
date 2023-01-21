@@ -18,6 +18,7 @@ Website is not HTTPS | 📥 | 💬
 
 Website is down | 💬 | ❓
 -|-|-
+[tbranyen.com](https://tbranyen.com/) | n/a | unable to connect
 [a11ywithlindsey.com](https://www.a11ywithlindsey.com/) | n/a | unable to connect
 [justinfagnani.com](https://justinfagnani.com/) | [1.1.2023](https://mastodon.social/@simevidas/109616402396112644) | certificate expired
 
