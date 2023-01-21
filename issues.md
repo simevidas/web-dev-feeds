@@ -4,6 +4,7 @@ TODO: Move this content to README. Then, add instructions for importing OPML to 
 
 Problem with feed | 📥 | 💬 | ❓
 -|-|-|-
+[whistlr.info](https://whistlr.info/) | [whistlr.info/rss.xml](https://whistlr.info/rss.xml) | [21.1.2023](https://mastodon.social/@simevidas/109729320265759373) | issue with Feedbro
 [mozilla.org/en-US/firefox/nightly/notes/](https://www.mozilla.org/en-US/firefox/nightly/notes/) | [mozilla.org/en-US/firefox/nightly/notes/feed/](https://www.mozilla.org/en-US/firefox/nightly/notes/feed/) | [21.1.2023](https://mastodon.social/@simevidas/109725975684671231) | invalid XML
 [stuffandnonsense.co.uk/blog/](https://stuffandnonsense.co.uk/blog/) | [stuffandnonsense.co.uk/blog/feed](https://stuffandnonsense.co.uk/blog/feed) | [11.1.2023](https://mastodon.social/@simevidas/109669185308080021) | server error
 [aetherpoint.com/writing/](https://www.aetherpoint.com/writing/) | [/feed.xml](https://www.aetherpoint.com/feed.xml) | [4.12.2022](https://mastodon.social/@simevidas/109457465962904832) | feed is empty
