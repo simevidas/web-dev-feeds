@@ -4,7 +4,7 @@ Download feeds.opml and import it into your feed reader. I update this file once
 
 ## Recommended feed reader
 
-I recommend the [Feedbro browser extension](https://nodetics.com/feedbro/), which I’m using myself. The extension continuously fetches new feed items in the background, and the UI is blazing fast. After you first import my feed collection into Feedbro, you may have to wait one or a few days for all 1000+ feeds to load, but after this initialization is complete, new feed items will be shown without any noticeable delay. I’m including a usage demonstration that shows me going through 77 new feed items and opening 14 blog posts in background tabs in less than 4 minutes.
+I recommend the [Feedbro browser extension](https://nodetics.com/feedbro/), which I’m using myself. The extension continuously fetches new feed items in the background, and the UI is blazing fast. After importing the feed collection into Feedbro, you may have to wait one or a few days for all 1000+ feeds to load, but after this initialization is complete, new feed items will be shown without any noticeable delay. Below, I’m including a usage demonstration where I go through 77 new feed items and open 14 blog posts in background tabs in less than 4 minutes.
 
 [usage.webm](https://user-images.githubusercontent.com/716405/215263231-d1089951-fb0a-4539-90b2-b54f8bbe06e8.webm)
 
