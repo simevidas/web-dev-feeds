@@ -38,6 +38,7 @@ Website is not HTTPS | 📥 | 💬
 
 Website is down | 💬 | ❓
 -|-|-
+[marcysutton.com](https://marcysutton.com/) | [11.2.2023](https://twitter.com/simevidas/status/1624306125754576898) | certificate expired
 [romaricpascal.is](https://romaricpascal.is/) | n/a | website suspended
 [mikeconley.ca/blog/](https://www.mikeconley.ca/blog/) | n/a | database connection error
 [a11ywithlindsey.com](https://www.a11ywithlindsey.com/) | n/a | unable to connect
