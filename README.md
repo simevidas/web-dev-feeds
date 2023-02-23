@@ -12,6 +12,7 @@ I recommend the [Feedbro browser extension](https://nodetics.com/feedbro/), whic
 
 Problem with feed | 📥 | 💬 | ❓
 -|-|-|-
+[begin.com/blog](https://begin.com/blog) | [begin.com/blog/rss](https://begin.com/blog/rss) | [22.2.2022](https://twitter.com/simevidas/status/1628314736944111616) | feed doesn’t contain latest posts
 [stuffandnonsense.co.uk/blog/](https://stuffandnonsense.co.uk/blog/) | [/blog/feed](https://stuffandnonsense.co.uk/blog/feed) | [11.1.2023](https://mastodon.social/@simevidas/109669185308080021) | server error
 [aetherpoint.com/writing/](https://www.aetherpoint.com/writing/) | [/feed.xml](https://www.aetherpoint.com/feed.xml) | [4.12.2022](https://mastodon.social/@simevidas/109457465962904832) | feed is empty
 [robdodson.me](https://robdodson.me/) | [/feed.xml](https://robdodson.me/feed.xml) | [25.11.2022](https://mastodon.social/@simevidas/109402350486107411) | invalid XML
