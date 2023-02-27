@@ -40,6 +40,7 @@ Website is not HTTPS | 📥 | 💬
 
 Website is down | 💬 | ❓
 -|-|-
+[medinathoughts.com](https://medinathoughts.com/) | n/a | secure connection failed
 [carmalou.com](https://carmalou.com/) | n/a | 404
 [rtpg.co](https://rtpg.co/) | n/a | 403 Forbidden error
 [madebymike.com.au](https://www.madebymike.com.au/) | n/a | unable to connect
