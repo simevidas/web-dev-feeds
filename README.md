@@ -43,7 +43,6 @@ Problem with website | 💬 | ❓
 [ognjen.io](https://ognjen.io/) | [2.3.2023](https://twitter.com/simevidas/status/1631414538032627715) | certificate expired
 [medinathoughts.com](https://medinathoughts.com/) | n/a | secure connection failed
 [carmalou.com](https://carmalou.com/) | n/a | 404
-[rtpg.co](https://rtpg.co/) | n/a | 403 Forbidden error
 [madebymike.com.au](https://www.madebymike.com.au/) | n/a | unable to connect
 [marcysutton.com](https://marcysutton.com/) | [11.2.2023](https://twitter.com/simevidas/status/1624306125754576898) | certificate expired
 [romaricpascal.is](https://romaricpascal.is/) | n/a | website suspended
