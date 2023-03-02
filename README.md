@@ -38,8 +38,9 @@ Website is not HTTPS | 📥 | 💬
 [erahm.org](http://www.erahm.org/) | [/feed/](http://www.erahm.org/feed/) | [4.12.2022](https://twitter.com/simevidas/status/1599202160524562432)
 [didoo.net](http://www.didoo.net/) | [/feed/](http://www.didoo.net/feed/) | [3.12.2022](https://twitter.com/simevidas/status/1598828194924089346)
 
-Website is down | 💬 | ❓
+Problem with website | 💬 | ❓
 -|-|-
+[ognjen.io](https://ognjen.io/) | [2.3.2023](https://twitter.com/simevidas/status/1631414538032627715) | certificate expired
 [medinathoughts.com](https://medinathoughts.com/) | n/a | secure connection failed
 [carmalou.com](https://carmalou.com/) | n/a | 404
 [rtpg.co](https://rtpg.co/) | n/a | 403 Forbidden error
