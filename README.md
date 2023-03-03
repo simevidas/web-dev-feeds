@@ -12,7 +12,6 @@ I recommend the [Feedbro browser extension](https://nodetics.com/feedbro/), whic
 
 Problem with feed | 📥 | 💬 | ❓
 -|-|-|-
-[begin.com/blog](https://begin.com/blog) | [begin.com/blog/rss](https://begin.com/blog/rss) | [22.2.2023](https://twitter.com/simevidas/status/1628314736944111616) | feed doesn’t contain latest posts
 [stuffandnonsense.co.uk/blog/](https://stuffandnonsense.co.uk/blog/) | [/blog/feed](https://stuffandnonsense.co.uk/blog/feed) | [11.1.2023](https://mastodon.social/@simevidas/109669185308080021) | server error
 [aetherpoint.com/writing/](https://www.aetherpoint.com/writing/) | [/feed.xml](https://www.aetherpoint.com/feed.xml) | [4.12.2022](https://mastodon.social/@simevidas/109457465962904832) | feed is empty
 [robdodson.me](https://robdodson.me/) | [/feed.xml](https://robdodson.me/feed.xml) | [25.11.2022](https://mastodon.social/@simevidas/109402350486107411) | invalid XML
@@ -24,7 +23,6 @@ Problem with feed | 📥 | 💬 | ❓
 
 Problem in Feedbro | 📥 | 💬 | ❓
 -|-|-|-
-[developer.chrome.com/blog/](https://developer.chrome.com/blog/) | [/feeds/blog.xml](https://developer.chrome.com/feeds/blog.xml) | [30.11.2022](https://github.com/GoogleChrome/developer.chrome.com/issues/4472) | incorrect `Last-Modified` header
 [voorhoede.nl/en/blog/](https://www.voorhoede.nl/en/blog/) | [/blog/feed.json](https://www.voorhoede.nl/blog/feed.json) | n/a | JSON feed not supported
 [guybedford.com](https://guybedford.com/) | [/feed.json](https://guybedford.com/feed.json) | n/a | JSON feed not supported
 [whistlr.info](https://whistlr.info/) | [/rss.xml](https://whistlr.info/rss.xml) | [21.1.2023](https://mastodon.social/@simevidas/109729320265759373) | incorrect `Last-Modified` header
@@ -40,14 +38,8 @@ Website is not HTTPS | 📥 | 💬
 
 Problem with website | 💬 | ❓
 -|-|-
-[ognjen.io](https://ognjen.io/) | [2.3.2023](https://twitter.com/simevidas/status/1631414538032627715) | certificate expired
 [medinathoughts.com](https://medinathoughts.com/) | n/a | secure connection failed
 [carmalou.com](https://carmalou.com/) | n/a | 404
-[madebymike.com.au](https://www.madebymike.com.au/) | n/a | unable to connect
-[marcysutton.com](https://marcysutton.com/) | [11.2.2023](https://twitter.com/simevidas/status/1624306125754576898) | certificate expired
-[romaricpascal.is](https://romaricpascal.is/) | n/a | website suspended
-[mikeconley.ca/blog/](https://www.mikeconley.ca/blog/) | n/a | database connection error
-[a11ywithlindsey.com](https://www.a11ywithlindsey.com/) | n/a | unable to connect
 [justinfagnani.com](https://justinfagnani.com/) | [1.1.2023](https://mastodon.social/@simevidas/109616402396112644) | certificate expired
 
 Feed disappeared | 📥 | 💬
