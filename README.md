@@ -54,12 +54,10 @@ Feed disappeared | 📥 | 💬
 
 Feed requested | 💬
 -|-
-[emnudge.dev/blog](https://emnudge.dev/blog) | [17.2.2023](https://twitter.com/simevidas/status/1626497077357297667)
 [h3manth.com/posts/](https://h3manth.com/posts/) | [15.2.2023](https://twitter.com/simevidas/status/1625759385690509312)
 [blog.dwac.dev](https://blog.dwac.dev/) | [25.1.2023](https://mastodon.social/@simevidas/109749224237131369)
 [nemzes.net/posts/](https://nemzes.net/posts/) | [7.1.2023](https://mastodon.social/@simevidas/109649862770330876)
 [imkev.dev](https://imkev.dev/) | [5.1.2023](https://mastodon.social/@simevidas/109638313938258067)
-[maxiferreira.com](https://www.maxiferreira.com/) | [12.12.2022](https://twitter.com/simevidas/status/1602157245814509568)
 [frontend.horse/articles/](https://frontend.horse/articles/) | [12.12.2022](https://twitter.com/simevidas/status/1602156649938124800)
 [react-spectrum.adobe.com/blog/](https://react-spectrum.adobe.com/blog/) | [12.12.2022](https://twitter.com/simevidas/status/1602155142643695618)
 [bholmes.dev/blog/](https://bholmes.dev/blog/) | [12.12.2022](https://twitter.com/simevidas/status/1602149251575947265)
