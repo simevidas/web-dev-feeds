@@ -110,7 +110,7 @@
 			<outline text="Browser London" title="Browser London" type="rss" xmlUrl="https://www.browserlondon.com/feed/" htmlUrl="http://10.0.1.134:50040/" />
 			<outline text="BuzzFeed Tech" title="BuzzFeed Tech" type="rss" xmlUrl="https://tech.buzzfeed.com/feed" htmlUrl="https://tech.buzzfeed.com?source=rss----140b2c7c3466---4" />
 			<outline text="Scott Logic" title="Scott Logic" type="rss" xmlUrl="https://blog.scottlogic.com/atom.xml" />
-			<outline text="Begin — Blog" title="Begin Blog" type="rss" xmlUrl="https://blog.begin.com/rss" htmlUrl="https://begin.com" />
+			<outline text="Begin — Blog" title="Begin Blog" type="rss" xmlUrl="https://begin.com/blog/rss" htmlUrl="https://begin.com" />
 			<outline text="Viget Articles" title="Viget Articles" type="rss" xmlUrl="https://feeds.feedburner.com/Viget" htmlUrl="https://www.viget.com/" />
 			<outline text="The Cloudflare Blog" title="The Cloudflare Blog" type="rss" xmlUrl="http://blog.cloudflare.com/rss" htmlUrl="https://blog.cloudflare.com/" />
 			<outline text="The PayPal Technology Blog" title="The PayPal Technology Blog" type="rss" xmlUrl="https://medium.com/feed/paypal-tech" htmlUrl="https://medium.com/paypal-tech?source=rss----6423323524ba---4" />
