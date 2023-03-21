@@ -76,6 +76,7 @@ Feed requested | 💬
 
 | No feed |
 |-|
+[react.dev/blog](https://react.dev/blog)
 [jgw96.github.io/blog](https://jgw96.github.io/blog/)
 [accessuse.eu/en/blog-en.html](https://accessuse.eu/en/blog-en.html)
 [team-usability.de/en/Blog.html](https://team-usability.de/en/Blog.html)
