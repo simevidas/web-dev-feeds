@@ -27,7 +27,6 @@ Problem in Feedbro | 📥 | 💬 | ❓
 -|-|-|-
 [voorhoede.nl/en/blog/](https://www.voorhoede.nl/en/blog/) | [/blog/feed.json](https://www.voorhoede.nl/blog/feed.json) | n/a | JSON feed not supported
 [guybedford.com](https://guybedford.com/) | [/feed.json](https://guybedford.com/feed.json) | n/a | JSON feed not supported
-[whistlr.info](https://whistlr.info/) | [/rss.xml](https://whistlr.info/rss.xml) | [21.1.2023](https://mastodon.social/@simevidas/109729320265759373) | incorrect `Last-Modified` header
 [addons.mozilla.org/blog/](https://addons.mozilla.org/blog/) | [/blog/feed.xml](https://addons.mozilla.org/blog/feed.xml) | [26.11.2022](https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/) | CORS error
 
 </details>
@@ -43,7 +42,6 @@ Problem with website | 💬 | ❓
 [p42.ai](https://p42.ai/) | n/a | connection timed out
 [medinathoughts.com](https://medinathoughts.com/) | n/a | secure connection failed
 [carmalou.com](https://carmalou.com/) | n/a | 404
-[justinfagnani.com](https://justinfagnani.com/) | [1.1.2023](https://mastodon.social/@simevidas/109616402396112644) | certificate expired
 
 Feed disappeared | 📥 | 💬
 -|-|-
