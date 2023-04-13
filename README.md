@@ -12,6 +12,7 @@ I recommend the [Feedbro browser extension](https://nodetics.com/feedbro/), whic
 
 Problem with feed | 📥 | 💬 | ❓
 -|-|-|-
+[vercel.com/blog](https://vercel.com/blog) | [/atom](https://vercel.com/atom) | n/a | invalid XML
 [muffinman.io](https://muffinman.io/) | [/atom.xml](https://muffinman.io/atom.xml) | [26.3.2023](https://codepen.io/stanko/details/mdGXQGQ) | invalid XML
 [potaroo.net](https://www.potaroo.net/) | [/rss.xml](https://www.potaroo.net/rss.xml) | n/a | invalid XML
 [stuffandnonsense.co.uk/blog/](https://stuffandnonsense.co.uk/blog/) | [/blog/feed](https://stuffandnonsense.co.uk/blog/feed) | [11.1.2023](https://mastodon.social/@simevidas/109669185308080021) | server error
