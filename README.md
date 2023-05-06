@@ -24,6 +24,7 @@ Problem with feed | 📥 | 💬 | ❓
 
 Problem in Feedbro | 📥 | 💬 | ❓
 -|-|-|-
+[developer.chrome.com](https://developer.chrome.com/) | [/feeds/all.xml](https://developer.chrome.com/feeds/all.xml) | [30.12.2022](https://github.com/GoogleChrome/developer.chrome.com/issues/4472) | issue with caching headers
 [voorhoede.nl/en/blog/](https://www.voorhoede.nl/en/blog/) | [/blog/feed.json](https://www.voorhoede.nl/blog/feed.json) | n/a | JSON feed not supported
 [guybedford.com](https://guybedford.com/) | [/feed.json](https://guybedford.com/feed.json) | n/a | JSON feed not supported
 [addons.mozilla.org/blog/](https://addons.mozilla.org/blog/) | [/blog/feed.xml](https://addons.mozilla.org/blog/feed.xml) | [26.11.2022](https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/) | CORS error
