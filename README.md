@@ -58,6 +58,7 @@ Feed disappeared | 📥 | 💬
 
 Feed requested | 💬
 -|-
+[nray.dev/blog/](https://www.nray.dev/blog/) | [23.12.2023](https://github.com/nicholasray/nray.dev/issues/3)
 [h3manth.com/posts/](https://h3manth.com/posts/) | [15.2.2023](https://twitter.com/simevidas/status/1625759385690509312)
 [blog.dwac.dev](https://blog.dwac.dev/) | [25.1.2023](https://mastodon.social/@simevidas/109749224237131369)
 [nemzes.net/posts/](https://nemzes.net/posts/) | [7.1.2023](https://mastodon.social/@simevidas/109649862770330876)
