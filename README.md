@@ -40,7 +40,6 @@ Website is not HTTPS | 📥 | 💬
 
 Problem with website | 💬 | ❓
 -|-|-
-[snook.ca](https://snook.ca/) | n/a | disconnected
 [p42.ai](https://p42.ai/) | n/a | connection timed out
 [medinathoughts.com](https://medinathoughts.com/) | n/a | secure connection failed
 [carmalou.com](https://carmalou.com/) | n/a | 404
