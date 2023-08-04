@@ -12,6 +12,7 @@ I recommend the [Feedbro browser extension](https://nodetics.com/feedbro/), whic
 
 Problem with feed | 📥 | 💬 | ❓
 -|-|-|-
+[jgw96.github.io/cascadia.computer/_site/](https://jgw96.github.io/cascadia.computer/_site/) | [/feed/feed.xml](https://jgw96.github.io/cascadia.computer/_site/feed/feed.xml) | [4.8.2023](https://mastodon.social/@simevidas/110829433889119835) | URLs are broken
 [denizaksimsek.com/en/](https://denizaksimsek.com/en/) | [/feed.xml](https://denizaksimsek.com/feed.xml) | [17.7.2023](https://mastodon.social/@simevidas/110730078171543216) | feed is empty
 [knutmelvaer.no](https://www.knutmelvaer.no/) | [/rss.xml](https://www.knutmelvaer.no/rss.xml) | [30.4.2023](https://twitter.com/simevidas/status/1652752225029042177) | URLs are broken
 [stuffandnonsense.co.uk/blog/](https://stuffandnonsense.co.uk/blog/) | [/blog/feed](https://stuffandnonsense.co.uk/blog/feed) | [11.1.2023](https://mastodon.social/@simevidas/109669185308080021) | server error
