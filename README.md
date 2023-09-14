@@ -58,7 +58,6 @@ Feed disappeared | 📥 | 💬
 
 Feed requested | 💬
 -|-
-[alexplescan.com/posts/](https://alexplescan.com/posts/) | [10.7.2023](https://github.com/alexpls/alexplescan.com/issues/25)
 [nray.dev/blog/](https://www.nray.dev/blog/) | [23.5.2023](https://github.com/nicholasray/nray.dev/issues/3)
 [h3manth.com/posts/](https://h3manth.com/posts/) | [15.2.2023](https://twitter.com/simevidas/status/1625759385690509312)
 [blog.dwac.dev](https://blog.dwac.dev/) | [25.1.2023](https://mastodon.social/@simevidas/109749224237131369)
