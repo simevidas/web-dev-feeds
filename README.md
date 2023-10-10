@@ -2,6 +2,10 @@
 
 Download feeds.opml and import it into your feed reader. I update this file once per month. Watch this repo to get notified.
 
+## How to add a feed to your website
+
+[Read this guide](https://danburzo.ro/add-a-web-feed/)
+
 ## Recommended feed reader
 
 I recommend the [Feedbro browser extension](https://nodetics.com/feedbro/), which I’m using myself. The extension continuously fetches new feed items in the background, and the UI is blazing fast. After importing the feed collection into Feedbro, you may have to wait one or a few days for all 1000+ feeds to load, but after this initialization is complete, new feed items will be shown without any noticeable delay. Below, I’m including a usage demonstration where I go through 77 new feed items and open 14 blog posts in background tabs in less than 4 minutes.
