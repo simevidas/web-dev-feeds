@@ -12,12 +12,6 @@ Download feeds.opml and import it into your feed reader. I update this file once
 
 ## Problems with websites and feeds
 
-Website is not HTTPS | 📥 | 💬
--|-|-
-[farmdev.com](http://farmdev.com/) | [/feeds/thoughts/](http://farmdev.com/feeds/thoughts/) | [4.12.2022](https://mastodon.social/@simevidas/109456873257419744)
-[erahm.org](http://www.erahm.org/) | [/feed/](http://www.erahm.org/feed/) | [4.12.2022](https://twitter.com/simevidas/status/1599202160524562432)
-[didoo.net](http://www.didoo.net/) | [/feed/](http://www.didoo.net/feed/) | [3.12.2022](https://twitter.com/simevidas/status/1598828194924089346)
-
 Problem with website | 💬 | ❓
 -|-|-
 [p42.ai](https://p42.ai/) | n/a | connection timed out
