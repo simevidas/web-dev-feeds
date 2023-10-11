@@ -12,20 +12,6 @@ Download feeds.opml and import it into your feed reader. I update this file once
 
 ## Problems with websites and feeds
 
-<details>
-<summary>Problem with feed in Feedbro specifically</summary>
-
-<p>The following feeds do not work in Feedbro, but may work in other feed readers.</p>
-
-Problem in Feedbro | 📥 | 💬 | ❓
--|-|-|-
-[developer.chrome.com](https://developer.chrome.com/) | [/feeds/all.xml](https://developer.chrome.com/feeds/all.xml) | [30.12.2022](https://github.com/GoogleChrome/developer.chrome.com/issues/4472) | issue with caching headers
-[voorhoede.nl/en/blog/](https://www.voorhoede.nl/en/blog/) | [/blog/feed.json](https://www.voorhoede.nl/blog/feed.json) | n/a | JSON feed not supported
-[guybedford.com](https://guybedford.com/) | [/feed.json](https://guybedford.com/feed.json) | n/a | JSON feed not supported
-[addons.mozilla.org/blog/](https://addons.mozilla.org/blog/) | [/blog/feed.xml](https://addons.mozilla.org/blog/feed.xml) | [26.11.2022](https://www.reddit.com/r/firefox/comments/z4u4kb/feedbro_addon_cant_access_feed_of_firefox_addons/) | CORS error
-
-</details>
-
 Website is not HTTPS | 📥 | 💬
 -|-|-
 [farmdev.com](http://farmdev.com/) | [/feeds/thoughts/](http://farmdev.com/feeds/thoughts/) | [4.12.2022](https://mastodon.social/@simevidas/109456873257419744)
