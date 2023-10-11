@@ -12,12 +12,6 @@ Download feeds.opml and import it into your feed reader. I update this file once
 
 ## Problems with websites and feeds
 
-Problem with website | 💬 | ❓
--|-|-
-[p42.ai](https://p42.ai/) | n/a | connection timed out
-[medinathoughts.com](https://medinathoughts.com/) | n/a | secure connection failed
-[carmalou.com](https://carmalou.com/) | n/a | 404
-
 Feed disappeared | 📥 | 💬
 -|-|-
 [wattenberger.com](https://wattenberger.com/) | [/rss](https://wattenberger.com/rss) | [1.5.2023](https://twitter.com/simevidas/status/1653025445607092225)
