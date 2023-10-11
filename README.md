@@ -12,6 +12,8 @@ Download feeds.opml and import it into your feed reader. I update this file once
 
 ## Problems with websites and feeds
 
+[Blogs without functioning feeds](https://docs.google.com/spreadsheets/d/e/2PACX-1vQA9Av3-Mx2ZU7Ez8_vqZS43J0MiJnipNoei8Tsjc-bs_Dax3k1LX1b8xs0JV_6zSmU9BqnQiObH6pD/pubhtml) (Google Sheet)
+
 Feed requested | 💬
 -|-
 [nray.dev/blog/](https://www.nray.dev/blog/) | [23.5.2023](https://github.com/nicholasray/nray.dev/issues/3)
