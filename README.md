@@ -8,19 +8,9 @@ Download feeds.opml and import it into your feed reader. I update this file once
 
 ## Suggested feed reader
 
-I recommend the [Feedbro browser extension](https://nodetics.com/feedbro/), which I’m using myself. The extension continuously fetches new feed items in the background, and the UI is blazing fast. After importing the feed collection into Feedbro, you may have to wait one or a few days for all 1000+ feeds to load, but after this initialization is complete, new feed items will be shown without any noticeable delay. Below, I’m including a usage demonstration where I go through 77 new feed items and open 14 blog posts in background tabs in less than 4 minutes.
-
-[usage.webm](https://user-images.githubusercontent.com/716405/215263231-d1089951-fb0a-4539-90b2-b54f8bbe06e8.webm)
+[Feedbro browser extension](https://nodetics.com/feedbro/)
 
 ## Problems with websites and feeds
-
-Problem with feed | 📥 | 💬 | ❓
--|-|-|-
-[jgw96.github.io/cascadia.computer/_site/](https://jgw96.github.io/cascadia.computer/_site/) | [/feed/feed.xml](https://jgw96.github.io/cascadia.computer/_site/feed/feed.xml) | [4.8.2023](https://mastodon.social/@simevidas/110829433889119835) | URLs are broken
-[knutmelvaer.no](https://www.knutmelvaer.no/) | [/rss.xml](https://www.knutmelvaer.no/rss.xml) | [30.4.2023](https://twitter.com/simevidas/status/1652752225029042177) | URLs are broken
-[stuffandnonsense.co.uk/blog/](https://stuffandnonsense.co.uk/blog/) | [/blog/feed](https://stuffandnonsense.co.uk/blog/feed) | [11.1.2023](https://mastodon.social/@simevidas/109669185308080021) | server error
-[aetherpoint.com/writing/](https://www.aetherpoint.com/writing/) | [/feed.xml](https://www.aetherpoint.com/feed.xml) | [4.12.2022](https://mastodon.social/@simevidas/109457465962904832) | feed is empty
-[robdodson.me](https://robdodson.me/) | [/feed.xml](https://robdodson.me/feed.xml) | [25.11.2022](https://mastodon.social/@simevidas/109402350486107411) | invalid XML
 
 <details>
 <summary>Problem with feed in Feedbro specifically</summary>
