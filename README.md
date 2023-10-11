@@ -12,14 +12,6 @@ Download feeds.opml and import it into your feed reader. I update this file once
 
 ## Problems with websites and feeds
 
-Feed disappeared | 📥 | 💬
--|-|-
-[wattenberger.com](https://wattenberger.com/) | [/rss](https://wattenberger.com/rss) | [1.5.2023](https://twitter.com/simevidas/status/1653025445607092225)
-[wesbos.com/blog/](https://wesbos.com/blog/) | [/feed/](http://wesbos.com/feed/) | [7.12.2022](https://github.com/wesbos/wesbos/issues/70#issuecomment-1341369901)
-[ben.robertson.is/writing/](https://ben.robertson.is/writing/) | [/feed.xml](https://ben.robertson.is/feed.xml) | [7.12.2022](https://github.com/benrobertsonio/benrobertson.io/issues/65)
-[pcwalton.github.io](https://pcwalton.github.io/) | [/feed.xml](https://pcwalton.github.io/feed.xml) | [29.11.2022](https://github.com/pcwalton/pcwalton.github.com/issues/6)
-[giovannibenussi.com](https://www.giovannibenussi.com/) | [/rss.xml](https://www.giovannibenussi.com/rss.xml) | [29.10.2021](https://twitter.com/simevidas/status/1454144581684039689)
-
 Feed requested | 💬
 -|-
 [nray.dev/blog/](https://www.nray.dev/blog/) | [23.5.2023](https://github.com/nicholasray/nray.dev/issues/3)
