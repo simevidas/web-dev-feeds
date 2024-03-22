@@ -1099,6 +1099,7 @@
 			<outline text="Šime’s blog" title="Šime’s blog" type="rss" xmlUrl="https://šime.eu/feed.xml" />
 			<outline text="bt" title="bt" type="rss" xmlUrl="https://btxx.org/index.rss" htmlUrl="http://btxx.org//" />
 			<outline text="anderegg.ca" title="anderegg.ca" type="rss" xmlUrl="https://anderegg.ca/feed.xml" htmlUrl="https://anderegg.ca/" />
+			<outline text="Tom's Homepage" title="ttntm.me - Blog" type="rss" xmlUrl="https://ttntm.me/feed.xml" htmlUrl="https://ttntm.me" />
 		</outline>
 	</body>
 </opml>
